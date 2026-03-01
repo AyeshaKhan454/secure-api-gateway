@@ -135,6 +135,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+threat_api.db
 .env
 .envrc
 .venv
